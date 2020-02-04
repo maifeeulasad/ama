@@ -2,6 +2,8 @@
 
 <h2 align="center">
  :dizzy: Ask me anything! :sparkles:<br><br>
+<h2 align="center">
+ You may never know, if you never ask<br><br>
 
  <a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
 </h2>
